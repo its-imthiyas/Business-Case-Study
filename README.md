@@ -1,6 +1,5 @@
 # Business Case Study
-This report aims to solve two business problems and reccommend a business solution using Decision Science. This report is a two part business solution 
-which solves for two different businesses. The two part are as follows,
+This report aims to solve two part business problems dealing with two businesses and reccommend a business solution using Decision Science. The two businesses are as follows,
 1. **Autonomous Shipment** roll-out: Autonomous Delivery
 2. **Drinks@home.uk**: What makes a customer valuable?
 
